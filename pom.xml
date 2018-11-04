@@ -11,6 +11,7 @@
     <modules>
         <module>helloworld</module>
         <module>kotlin-hello-world</module>
+        <module>springboot2-mybatis-hikaricp</module>
     </modules>
 
 </project>
