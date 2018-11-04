@@ -14,6 +14,7 @@
         <module>springboot2-mybatis-hikaricp</module>
         <module>springboot2-mongodb</module>
         <module>springboot2-redis</module>
+        <module>all-in-one-project</module>
     </modules>
 
 </project>
