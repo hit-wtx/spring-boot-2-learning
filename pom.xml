@@ -12,6 +12,8 @@
         <module>helloworld</module>
         <module>kotlin-hello-world</module>
         <module>springboot2-mybatis-hikaricp</module>
+        <module>springboot2-mongodb</module>
+        <module>springboot2-redis</module>
     </modules>
 
 </project>

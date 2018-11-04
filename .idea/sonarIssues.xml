@@ -8,6 +8,116 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/springboot2-mongodb/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot2-mongodb/src/main/java/com/lib/springboot2/Springboot2MongodbApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot2-mongodb/src/main/java/com/lib/springboot2/domain/User.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot2-mongodb/src/main/java/com/lib/springboot2/repository/UserRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot2-mongodb/src/test/java/com/lib/springboot2/Springboot2MongodbApplicationTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot2-mybatis-hikaricp/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot2-mybatis-hikaricp/src/main/java/com/lib/springboot2/SpringbootMybatisHikaricpApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot2-mybatis-hikaricp/src/main/java/com/lib/springboot2/config/DataSourceConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot2-mybatis-hikaricp/src/main/java/com/lib/springboot2/controllers/UserController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot2-mybatis-hikaricp/src/main/java/com/lib/springboot2/dao/UserDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot2-mybatis-hikaricp/src/main/java/com/lib/springboot2/domain/UserDomain.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot2-mybatis-hikaricp/src/main/java/com/lib/springboot2/service/UserService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot2-mybatis-hikaricp/src/main/java/com/lib/springboot2/service/UserServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot2-mybatis-hikaricp/src/main/java/com/lib/springboot2/service/UserServiceJDBCImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot2-mybatis-hikaricp/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot2-mybatis-hikaricp/src/main/resources/mapper/userMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot2-mybatis-hikaricp/src/sql/user.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot2-redis/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot2-redis/src/test/java/com/lib/springboot2/Springboot2RedisApplicationTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/webflux-helloworld/src/main/java/com/lib/sparingboot2/WebfluxHelloworldApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/webflux-helloworld/src/main/java/com/lib/sparingboot2/handler/HelloWorldHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/webflux-helloworld/src/main/java/com/lib/sparingboot2/router/HelloWorldRouter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
       </map>
     </option>
   </component>
