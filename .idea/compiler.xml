@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="all-in-one-project" />
+        <module name="helloworld" />
+        <module name="kotlin-hello-world" />
+        <module name="springboot2-eureka" />
+        <module name="springboot2-eureka-user-service" />
+        <module name="springboot2-feign-api" />
+        <module name="springboot2-gateway" />
+        <module name="springboot2-groovy" />
+        <module name="springboot2-hystrix-dashboard" />
+        <module name="springboot2-mongodb" />
+        <module name="springboot2-mybatis-hikaricp" />
+        <module name="springboot2-redis" />
+        <module name="springboot2-zuul" />
+        <module name="webflux-helloworld" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
