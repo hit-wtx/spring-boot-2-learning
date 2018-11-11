@@ -14,6 +14,11 @@
         <module>springboot2-mybatis-hikaricp</module>
         <module>springboot2-mongodb</module>
         <module>springboot2-redis</module>
+        <module>springboot2-groovy</module>
+        <module>springboot2-eureka</module>
+        <module>springboot2-gateway</module>
+        <module>springboot2-feign-api</module>
+        <module>springboot2-hystrix-dashboard</module>
         <module>all-in-one-project</module>
     </modules>
 
