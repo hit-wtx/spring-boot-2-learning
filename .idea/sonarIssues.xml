@@ -8,6 +8,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/.gitignore">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/all-in-one-project/src/main/java/com/libw/springboot2/ProjectApplication.java">
           <value>
             <set />
@@ -38,6 +43,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/groovy-learning/.gitignore">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/groovy-learning/src/com/libw/groovy/learning/Str.groovy">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/helloworld/pom.xml">
           <value>
             <set />
@@ -49,6 +64,191 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/project/.gitignore">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot2-eureka-user-service/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot2-eureka-user-service/src/main/java/com/libw/springboot2/Springboot2EurekaUserServiceApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot2-eureka-user-service/src/main/java/com/libw/springboot2/controllers/IndexController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot2-eureka-user-service/src/main/resources/application-dev.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot2-eureka-user-service/src/main/resources/application-prod.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot2-eureka-user-service/src/main/resources/application-test.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot2-eureka-user-service/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot2-eureka/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot2-eureka/src/main/java/com/libw/springboot2/Springboot2EurekaApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot2-eureka/src/main/resources/application-dev.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot2-eureka/src/main/resources/application-prod.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot2-eureka/src/main/resources/application-test.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot2-eureka/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot2-feign-api/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot2-feign-api/src/main/java/com/libw/springboot2/Springboot2FeignApiApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot2-feign-api/src/main/java/com/libw/springboot2/config/NodeConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot2-feign-api/src/main/java/com/libw/springboot2/controllers/NodeController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot2-feign-api/src/main/java/com/libw/springboot2/controllers/UserController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot2-feign-api/src/main/java/com/libw/springboot2/hystrix/HystrixClientFallback.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot2-feign-api/src/main/java/com/libw/springboot2/hystrix/HystrixConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot2-feign-api/src/main/java/com/libw/springboot2/hystrix/HystrixNodeClientFallback.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot2-feign-api/src/main/java/com/libw/springboot2/interfaces/NodeClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot2-feign-api/src/main/java/com/libw/springboot2/interfaces/RemoteService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot2-feign-api/src/main/java/com/libw/springboot2/model/CnodeArticle.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot2-feign-api/src/main/java/com/libw/springboot2/model/CnodeTopicsRequest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot2-feign-api/src/main/java/com/libw/springboot2/model/CnodeTopicsResponse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot2-feign-api/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot2-gateway/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot2-gateway/src/main/java/com/libw/springboot2/Springbooy2GatewayApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot2-groovy/src/main/groovy/com/lib/springboot2/GroovyApplication.groovy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot2-groovy/src/main/groovy/com/lib/springboot2/controllers/UserController.groovy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot2-groovy/src/main/groovy/com/lib/springboot2/domain/User.groovy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot2-groovy/src/main/groovy/com/lib/springboot2/services/UserService.groovy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot2-groovy/src/main/groovy/com/lib/springboot2/services/UserServiceImpl.groovy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot2-hystrix-dashboard/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot2-hystrix-dashboard/src/main/java/com/libw/springboot2/Springboot2HystrixDashboardApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot2-hystrix-dashboard/src/main/resources/application.properties">
           <value>
             <set />
           </value>
@@ -144,6 +344,21 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/springboot2-redis/src/test/java/com/lib/springboot2/Springboot2RedisApplicationTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot2-zuul/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot2-zuul/src/main/java/com/libw/springboot2/Springboot2ZuulApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot2-zuul/src/main/resources/application.properties">
           <value>
             <set />
           </value>
